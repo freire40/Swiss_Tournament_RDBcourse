@@ -65,7 +65,7 @@ testing scenarios and examples are provided. Simply run them from command line `
 * `test_lv.py`			- 8-player pairing example
 * `test_jkr9.py` 		- 9-player pairing example
 * `test_jkr15.py` 		- 15-player pairing example
-* `test_tmt.py` 		- run the previous tests in sequence, saves them, and retrieves the first one.
+* `test_tmt.py` 		- runs the previous tests in sequence, saves them, and retrieves the first one.
 
 
 ### Future developments
